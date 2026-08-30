@@ -1,3 +1,4 @@
 interface:
-  display_name: "Amazon SP-API"
-  short_description: "Integrate Seller Central data APIs securely"
+  display_name: "Amazon SP-API Skill"
+  short_description: "Amazon Seller Central integration skill"
+  default_prompt: "Use $amazon-sp-api-skill to design or implement an Amazon Seller Central SP-API integration."

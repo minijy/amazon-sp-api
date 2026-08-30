@@ -1,5 +1,5 @@
 ---
-name: amazon-sp-api
+name: amazon-sp-api-skill
 description: Integrate, review, or troubleshoot Amazon Seller Central Selling Partner API (SP-API) applications, including developer onboarding, LWA authorization, direct JSON data retrieval, restricted-data access, pagination, throttling, and notifications. Use for seller account, catalog, listings, orders, pricing, inventory, finance, fees, sales, fulfillment, or SP-API authentication work. Do not route Amazon Ads API, AWS retail services, or Vendor Central-only integrations here unless explicitly adapting the scope.
 ---
 
