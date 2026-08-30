@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon SP-API"
+  short_description: "Integrate Seller Central data APIs securely"
